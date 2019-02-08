@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/owen.kennedy/Documents/GitHub/CSC120_Week3/proj1/Account.h
+string
+-
+
+C:/Users/owen.kennedy/Documents/GitHub/CSC120_Week3/proj1/accountTest.cpp
+iostream
+-
+string
+-
+Account.h
+C:/Users/owen.kennedy/Documents/GitHub/CSC120_Week3/proj1/Account.h
+
